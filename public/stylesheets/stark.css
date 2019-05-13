@@ -1,0 +1,8 @@
+body{
+    background-image: url("/images/starkbanner.jpg");
+}
+
+div{
+    text-align: center;
+    padding: 50px;
+}

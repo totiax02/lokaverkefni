@@ -1,0 +1,33 @@
+body {
+  padding: 100px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("/images/gotlogo2.jpg");
+  background-image: fill;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#page {
+  max-width: 940px;
+  min-width: 720px;
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  border: 4px double #000;
+  background-color: #246754;
+}
+
+ul {
+  width: 570px;
+  padding: 15px;
+  margin: 0 auto 0 auto;
+  border-top: 2px solid #000;
+  border-bottom: 1px solid #000;
+  text-align: center;
+}
+
+li{
+  display: inline;
+  margin: 0 3px;
+}
+
